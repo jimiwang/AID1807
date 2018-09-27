@@ -4,4 +4,6 @@ git 好用还是svn好用？
 
 ２．各有优点，更喜欢git
 
-nihao
+jame --> jame1
+
+远程仓库
